@@ -6,7 +6,7 @@ public class BinarySearch {
         Integer max = integerList.size() - 1;
 
         while (min <= max) {
-            Integer mid = (min + max)/2;
+            Integer mid = (min + max) / 2;
             Integer guess = integerList.get(mid);
 
             if (guess.equals(itemSearching)) {
