@@ -1,3 +1,5 @@
+package chapter_1.introduction_to_algorithms;
+
 import java.util.List;
 
 public class BinarySearch {
